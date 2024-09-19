@@ -12,6 +12,6 @@ options:原始数据options
 ### code
 code请查看headline_data.py
 ### Statistics
-源数据test.json包含`20547`条数据，处理加清洗后得到106155条数据。
+源数据test.json包含`20547`条数据，处理加清洗后得到`106155`条数据。
 ### time used
 ![image](https://github.com/user-attachments/assets/c902ecdc-bf6f-470e-8d75-f7400e05e42d)
